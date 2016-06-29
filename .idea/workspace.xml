@@ -2,66 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e841ef2a-9310-4ace-9ab6-1adfbf81a96a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/edu/2015/0429/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/edu/2015/0429/2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/edu/2015/0429/3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/edu/2015/0429/4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/edu/2015/0429/5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/edu/2015/0429/6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/edu/2015/0429/7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/estate/2015/0429/10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/estate/2015/0429/11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/estate/2015/0429/12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/estate/2015/0429/13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/estate/2015/0429/14.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/estate/2015/0429/15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/estate/2015/0429/16.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/finance/2015/0429/17.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/manufacturing/2015/0429/20.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/medical/2015/0429/19.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/tech/2015/0429/18.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/travel/2015/0429/8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a/cases/travel/2015/0429/9.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/clients.png" afterPath="$PROJECT_DIR$/templets/Images/clients.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper1_1.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper1_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper1_1_h600.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper1_1_h600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper1_1_h800.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper1_1_h800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper1_2.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper1_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper1_2_h600.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper1_2_h600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper1_2_h800.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper1_2_h800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper1_3.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper1_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper1_3_h600.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper1_3_h600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper1_3_h800.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper1_3_h800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper1_4.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper1_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper1_4_h600.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper1_4_h600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper1_4_h800.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper1_4_h800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper2.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper5.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper5_h600.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper5_h600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper5_h800.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper5_h800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper7.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper7_h600.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper7_h600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper7_h800.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper7_h800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper8.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper8_h600.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper8_h600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/wallpaper8_h800.jpg" afterPath="$PROJECT_DIR$/templets/Images/wallpaper8_h800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/welcome_words.png" afterPath="$PROJECT_DIR$/templets/Images/welcome_words.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/welcome_words_mini.png" afterPath="$PROJECT_DIR$/templets/Images/welcome_words_mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Images/words.png" afterPath="$PROJECT_DIR$/templets/Images/words.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Picture/wechat_code.jpg" afterPath="$PROJECT_DIR$/templets/Picture/wechat_code.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/allimg/150429/1-1504291649100-L.jpg" afterPath="$PROJECT_DIR$/uploads/allimg/150429/1-1504291649100-L.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/allimg/150429/1-150429164J40-L.jpg" afterPath="$PROJECT_DIR$/uploads/allimg/150429/1-150429164J40-L.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/allimg/150429/1-1504291A0160-L.jpg" afterPath="$PROJECT_DIR$/uploads/allimg/150429/1-1504291A0160-L.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/cases/farming/2015/0429/21.html" afterPath="$PROJECT_DIR$/a/cases/farming/2015/0429/21.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/cases/media/2015/0429/22.html" afterPath="$PROJECT_DIR$/a/cases/media/2015/0429/22.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/cases/other/2015/0429/23.html" afterPath="$PROJECT_DIR$/a/cases/other/2015/0429/23.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/listcache/cf/07/bc/cf07bc692ccc4aaf6f95267def4cb40a.php" afterPath="$PROJECT_DIR$/data/cache/listcache/cf/07/bc/cf07bc692ccc4aaf6f95267def4cb40a.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/memberlogin/c4/ca/42/c4ca4238a0b923820dcc509a6f75849b.php" afterPath="$PROJECT_DIR$/data/cache/memberlogin/c4/ca/42/c4ca4238a0b923820dcc509a6f75849b.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/config.cache.inc.php" afterPath="$PROJECT_DIR$/data/config.cache.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/1000zhu/index.htm" afterPath="$PROJECT_DIR$/templets/1000zhu/index.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/Content/index.min.css" afterPath="$PROJECT_DIR$/templets/Content/index.min.css" />
     </list>
     <ignored path="xufeng-html5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -217,7 +158,7 @@
       <workItem from="1466320122476" duration="1575000" />
       <workItem from="1466342092093" duration="3019000" />
       <workItem from="1466395249863" duration="1559000" />
-      <workItem from="1467152887721" duration="3400000" />
+      <workItem from="1467152887721" duration="3501000" />
     </task>
     <task id="LOCAL-00001" summary="去掉后台登陆验证码">
       <created>1465895259809</created>
@@ -233,11 +174,18 @@
       <option name="project" value="LOCAL" />
       <updated>1465895347513</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="定稿完成">
+      <created>1467166950553</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1467166950553</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13317000" />
+    <option name="totallyTimeSpent" value="13418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="23" width="1379" height="877" extended-state="6" />
@@ -268,7 +216,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="去掉后台登陆验证码" />
     <MESSAGE value="更新缓存" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新缓存" />
+    <MESSAGE value="定稿完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="定稿完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -393,6 +342,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="0" column="3894" selection-start-line="0" selection-start-column="3894" selection-end-line="0" selection-end-column="3894" />
+          <folding />
         </state>
       </provider>
     </entry>
